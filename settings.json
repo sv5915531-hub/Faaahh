@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Thunderboltzz.aternos.me",
-    "port": 41186,
+    "ip": "masalabondasmp.aternos.me",
+    "port": 18114,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "sugham anooo?",
-        "Subscribe to Slobos!",
-        "HEYYYY GOOYS"
+        "Sambarrrr",
+        "Yadhu is comming to bomb",
+        "Runnnnnnn!!!!"
       ]
     },
     "chat-log": true,
