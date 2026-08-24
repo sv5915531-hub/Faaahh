@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "masalabondasmp.aternos.me",
-    "port": 18114,
+    "ip": "Thunderboltzz2.aternos.me",
+    "port": 48411,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Sambarrrr",
-        "Yadhu is comming to bomb",
-        "Runnnnnnn!!!!"
+        "Hey guys",
+        "IM FAAAAHHH",
+        "SUGAM ANOOO?"
       ]
     },
     "chat-log": true,
